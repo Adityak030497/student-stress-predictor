@@ -62,7 +62,7 @@ The app displays personalized stress management tips.
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/XANX1998/student-stress-predictor.git
+git clone https://github.com/Adityak030497/student-stress-predictor.git
 cd student-stress-predictor
 
 2️⃣ Install dependencies
@@ -78,10 +78,6 @@ Target variable: stress_level (0–100)
 
 📸 Example Output
 ![Screenshot_8-10-2025_194941_student-stress-predictor-ascplodlljaij6xmsnnpb2 streamlit app](https://github.com/user-attachments/assets/9fdf4c84-fd90-4afd-a522-2d5f67c8ff86)
-
-
-
-(Replace with your actual screenshot link)
 
 💡 Future Improvements
 
